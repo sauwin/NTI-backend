@@ -274,7 +274,7 @@ The GitHub Actions workflow (`.github/workflows/ci.yml`) runs on pushes and pull
 
 ## Related Repositories
 
-- **FE_NTI** — Vue 3 frontend for this API
+- **NTI-frontend** — Vue 3 frontend for this API
 
 ## License
 
